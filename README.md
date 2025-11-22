@@ -1,2 +1,2 @@
 # Server-Monitoring-App-
-Server Monitoring Backend wit spring boot 
+Server Monitoring Backend with spring boot 
